@@ -6,6 +6,7 @@ public class color {
     public static void main(String[] args) {
         LocalDateTime localDateTime=LocalDateTime.now();
         System.out.println(localDateTime.getYear());
+        boolean flag=true;
 
     }
 }
