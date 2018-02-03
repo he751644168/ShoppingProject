@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyWikiWeb:war">
+    <output-path>$PROJECT_DIR$/../MyWikiParent/MyWikiWeb/target</output-path>
+    <root id="archive" name="MyWikiWeb.war">
+      <element id="artifact" artifact-name="MyWikiWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiCommon/MyWikiCommon.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiCommon/MyWikiCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiModel/MyWikiModel.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiModel/MyWikiModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiParent.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiPm/MyWikiPm.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiPm/MyWikiPm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiProjectManage/MyWikiProjectManage.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiProjectManage/MyWikiProjectManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiWeb/MyWikiWeb.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiWeb/MyWikiWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiWebService/MyWikiWebService.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiWebService/MyWikiWebService.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping.iml" filepath="$PROJECT_DIR$/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWikiParent/MyWikiWeb/src/test/test.iml" filepath="$PROJECT_DIR$/../MyWikiParent/MyWikiWeb/src/test/test.iml" />
     </modules>
   </component>
 </project>

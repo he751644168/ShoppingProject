@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyWikiWebService:war">
+    <output-path>$PROJECT_DIR$/../MyWikiParent/MyWikiWebService/target</output-path>
+    <root id="archive" name="MyWikiWebService-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyWikiWebService:war exploded" />
+    </root>
+  </artifact>
+</component>

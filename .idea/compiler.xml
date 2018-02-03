@@ -6,10 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MyWikiCommon" />
+        <module name="MyWikiModel" />
+        <module name="MyWikiPm" />
+        <module name="MyWikiProjectManage" />
+        <module name="MyWikiWeb" />
+        <module name="MyWikiWebService" />
         <module name="shopping" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="MyWikiCommon" target="1.8" />
+      <module name="MyWikiModel" target="1.8" />
+      <module name="MyWikiParent" target="1.8" />
+      <module name="MyWikiPm" target="1.8" />
+      <module name="MyWikiProjectManage" target="1.8" />
+      <module name="MyWikiWeb" target="1.8" />
+      <module name="MyWikiWebService" target="1.8" />
       <module name="shopping" target="1.5" />
     </bytecodeTargetLevel>
   </component>
